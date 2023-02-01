@@ -1,1 +1,1 @@
-Welcome to my personal portfolio. Here I'll display my latest work and projects I have finished.
+Welcome to my personal portfolio. Here I'll display my latest work and projects I have finished. You can see the source code in the 'master' branch => [code](https://github.com/JoelEncinas/JoelEncinas.github.io/tree/master).
