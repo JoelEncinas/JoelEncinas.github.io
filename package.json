@@ -2,6 +2,7 @@
   "name": "react-starter",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://joelencinasmartin.github.io",
   "dependencies": {
     "@hookform/resolvers": "^2.9.10",
     "@testing-library/jest-dom": "^5.16.5",
@@ -42,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
