@@ -7,4 +7,4 @@ Portfolio ideas
 - card moves in 3d > [page](https://dizme.vercel.app/index-dark)
 - loading bar > [page](https://adriandanlos.es/)
 - black/white to color switch on hover > [page](https://sergio-react.vercel.app/index-glitch)
-- 
+- contact form animations (letter count/validation) > [page](https://www.youtube.com/watch?v=GrA2i1GNmbg)
