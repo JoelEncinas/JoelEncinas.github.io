@@ -24,19 +24,19 @@ export const bios = [
     id: 1,
     icon: <FaUser />,
     key: "Name",
-    value: "Abeezarar"
+    value: "Joel"
   },
   {
     id: 2,
     icon: <FaPhoneAlt />,
     key: "Phone",
-    value: "+959883271929"
+    value: "+34 684 32 20 54"
   },
   {
     id: 3,
     icon: <FaPaperPlane />,
     key: "Email",
-    value: "abee02@gmail.com"
+    value: "joelencinasmartin@gmail.com"
   }
 ]
 
@@ -132,16 +132,16 @@ export const contacts = [
   {
     id: 1,
     icon: <FaMapMarkerAlt />,
-    infoText: "16 Road, TharKayTa , Yangon"
+    infoText: "Vitoria, Spain"
   },
   {
     id: 2,
     icon: <FaPaperPlane />,
-    infoText: "abee02@gmail.com"
+    infoText: "joelencinasmartin@gmail.com"
   },
   {
     id: 3,
     icon: <FaPhoneAlt />,
-    infoText: "+959-883-271-929"
+    infoText: "+34 684 32 20 54"
   }
 ]
