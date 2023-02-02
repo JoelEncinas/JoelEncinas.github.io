@@ -34,7 +34,7 @@ const Home = () => {
       </div>
       <div className="profile_text">
         <h3 className='name'>Hi, I'm <span>Joel Encinas</span> </h3>
-        <span className='job'>Web Developer Based on Vitoria</span>
+        <span className='job'>Developer Based on Vitoria</span>
         <span className='text'>Passionate<br /> to craft innovative <br />  web products.</span>
         <motion.a
           href="#contact"
@@ -47,17 +47,17 @@ const Home = () => {
           className="web"
 
         >
-          Frontend Developer
+          Frontend Dev
         </div>
         <div
           className="ui"
         >
-          Backend Developer
+          Backend Dev
         </div>
         <div
           className="freelance"
         >
-          Game Developer
+          Game Dev
         </div>
       </div>
     </motion.div>

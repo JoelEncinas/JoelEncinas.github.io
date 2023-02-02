@@ -30,7 +30,7 @@ export const bios = [
     id: 2,
     icon: <FaPhoneAlt />,
     key: "Phone",
-    value: "+34 684 32 20 54"
+    value: "+34684322054"
   },
   {
     id: 3,
@@ -47,40 +47,40 @@ export const experiences = [
     id: 1,
     year: "2022",
     position: "Senior Web Developer",
-    company: "shop.com.mm"
+    company: "Mamecorp"
   },
   {
     di: 2,
     year: "2021",
     position: "Junior Web Developer",
-    company: "shop.com.mm"
+    company: "Mamecorp"
   },
   {
     id: 3,
     year: "2019",
     position: "Intern Web Dveloper",
-    company: "shop.com.mm"
+    company: "Mamecorp"
   }
 ]
 export const finishes = [
   {
     id: 1,
-    number: '6+',
+    number: '1+',
     itemName: "Years Of Experience"
   },
   {
     id: 2,
-    number: "150+",
+    number: "1+",
     itemName: "Satisfied Customers"
   },
   {
     id: 3,
-    number: "669+",
+    number: "50+",
     itemName: "Designed Items"
   },
   {
     id: 4,
-    number: "117+",
+    number: "1+",
     itemName: "Clients Served"
   }
 ]
