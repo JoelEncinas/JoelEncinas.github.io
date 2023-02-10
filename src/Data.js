@@ -13,7 +13,10 @@ import work6 from "./assets/work6.png";
 export const navLinks = ["home", "about", "skills", "portfolio", "contact"]
 
 export const socialIcons = [
+  <FaDribbble />,
+  <FaInstagram />,
   <FaLinkedin />,
+  <BsMedium />
 ]
 
 export const bios = [
@@ -43,31 +46,42 @@ export const experiences = [
   {
     id: 1,
     year: "2022",
-    position: "Diving into web apps",
-    company: "React, NodeJS & Express"
+    position: "Senior Web Developer",
+    company: "Mamecorp"
   },
   {
     di: 2,
-    year: "2022",
-    position: "Learning about web & games",
-    company: "Javascript, Unity & C#"
+    year: "2021",
+    position: "Junior Web Developer",
+    company: "Mamecorp"
+  },
+  {
+    id: 3,
+    year: "2019",
+    position: "Intern Web Dveloper",
+    company: "Mamecorp"
   }
 ]
 export const finishes = [
   {
     id: 1,
-    number: '2+',
-    itemName: "Years learning"
+    number: '1+',
+    itemName: "Years Of Experience"
   },
   {
     id: 2,
-    number: "2",
-    itemName: "Games done"
+    number: "1+",
+    itemName: "Satisfied Customers"
   },
   {
     id: 3,
-    number: "5+",
-    itemName: "Projects completed"
+    number: "50+",
+    itemName: "Designed Items"
+  },
+  {
+    id: 4,
+    number: "1+",
+    itemName: "Clients Served"
   }
 ]
 export const workImages = [
@@ -111,7 +125,7 @@ export const workImages = [
 
 
 export const workNavs = [
-  "All", "Web", "App", "Games"
+  "All", "Web", "App", "Design"
 ]
 
 export const contacts = [

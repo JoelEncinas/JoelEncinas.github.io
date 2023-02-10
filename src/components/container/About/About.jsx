@@ -34,7 +34,7 @@ const About = () => {
           transition={{ duration: 1 }}
         >
 
-          <p>I'm Joel Encinas, a passionate self taught web & game developer. I like ⛰️ Hiking, 🛹 Skateboarding and ♟️ Chess too!</p>
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae at rem, tenetur ad ipsa sequi, optio eius laudantium vero minus maxime laborum est et nemo consequatur nostrum distinctio sed, nulla doloribus officiis ea eligendi explicabo.</p>
           {bios.map(bio => {
             return (
               <div className="bio" key={bio.id}>
