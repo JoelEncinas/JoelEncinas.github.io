@@ -58,7 +58,7 @@ export const experiences = [
   {
     id: 3,
     year: "2019",
-    position: "Intern Web Dveloper",
+    position: "Intern Web dev",
     company: "Mamecorp"
   }
 ]
